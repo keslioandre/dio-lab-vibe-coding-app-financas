@@ -110,3 +110,24 @@ Um app que funcione como um “Agente Financeiro” conversacional, capaz de reg
 - Testes com grupo diverso de usuários (iniciantes e pessoas com necessidades de acessibilidade)  
 - Coleta de feedback para melhorias
 
+## Reflexão
+
+**O que funcionou bem?**  
+A criação de um PRD estruturado, com o apoio da IA, garantiu que todas as informações essenciais fossem documentadas de forma clara e organizada.
+
+**O que não funcionou como o esperado?**  
+Foram necessárias várias interações com o Lovable até que o chat funcionasse de maneira satisfatória, mostrando que ajustes e iterações fazem parte do processo.
+
+**O que aprendi sobre conversar com IAs?**  
+Durante o processo de Vibe Coding, percebi que é possível transformar uma ideia em um aplicativo funcional de forma rápida, sem precisar dominar programação. Aprendi a importância de estruturar um **PRD (Product Requirements Document)**, organizar funcionalidades em etapas claras e validar conceitos. 
+
+# Conclusão
+
+Esse processo reforçou a importância de:
+- **Clareza de requisitos**: definir contexto, problema, público-alvo e funcionalidades antes de começar.  
+- **Iteração rápida**: construir, testar e ajustar em ciclos curtos.  
+- **Design universal**: pensar em acessibilidade e experiência inclusiva desde o início.  
+- **Validação prática**: usar protótipos para coletar feedback real e melhorar continuamente.  
+
+Em resumo, o Vibe Coding me ensinou a focar na experiência do usuário e na entrega de valor.
+
